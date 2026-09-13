@@ -1,4 +1,4 @@
-package Ejercicio_2;
+package Taller2.Ejercicio_2;
 
 public class Estudiante {
 
