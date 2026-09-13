@@ -1,4 +1,4 @@
-package Taller3.Ejercicio1.Ejercicio2;
+package Taller3.Ejercicio2;
 
 
 public class Ejercicio2 {
